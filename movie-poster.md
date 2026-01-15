@@ -89,11 +89,11 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Make a poster with the red, white, and black color scheme, in which the casino says the name of the movie (oceans 11). Also, the 11 people running out of the building should be in SWAT gear, so that you cant' see their faces, and carrying duffle bags.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** It was 90 percent correct, with people running out of the casino and the color scheme.
+- **What didn't work:**  he people in SWAT gear didn't look at all the way it did in the movie
+- **What I'll change for next attempt:**  I will make more specific my prompt about the SWAT gear
 
 **Attempt 4:**  
 - **My prompt:**  
