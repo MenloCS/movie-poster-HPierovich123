@@ -96,12 +96,12 @@ Keep refining. Try at least two more meaningfully different directions.
 - **What I'll change for next attempt:**  I will make more specific my prompt about the SWAT gear
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Make a poster with the red, white, and black color scheme, in which the casino says the name of the movie (oceans 11). Also, the 11 people running out of the building should be in SWAT gear, so that you cant' see their faces, and carrying duffle bags. In the swat gear they have face sheilds that are green, so you can't see their faces
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  It understood that only their faces were covered by the green shield, and not their entire body/
+- **What didn't work:**  It looks very flat, as none of the buildings or people are at an angle/
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?) I Have selected Trial 4, as it is the most like the movie, and scored the highest in my rubric.
 
 ---
 
