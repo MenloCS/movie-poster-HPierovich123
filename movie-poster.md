@@ -30,31 +30,31 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:** Ocean's 11.
+- **Why I chose this movie:** It's my favorite movie.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:** Tension and wonder. 
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  A Casino and a guy in a suit with sunglasses.
+- **Why this element:**  The climax of the movie happens at a Casino, and the guy in the suit is the main character.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:** I do not want a super realistic image, I want it to be very minimalist in color scheme.
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** Black/White
+- **Accent color(s):** Red
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) Stark / lots of dissonance
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
+- [ ] Medium shot (full figure) Wide Shot of the Casino, people in the foreground or in the Casino.
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
