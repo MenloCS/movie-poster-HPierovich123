@@ -119,8 +119,8 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1.  Made the building at an angle.
+2. Made the people at an angle
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
@@ -133,22 +133,23 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
+All the time, I wanted the same color scheme. However, it sometimes misunderstood what I was saying, for example when I said to put the people at an angle, it made them all run to the side.
 
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+The decision to make the color scheme.
 
 **What would you do differently next time?**  
-
+I would add more reference images
 
 ---
 
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [X] This completed `movie-poster-project.md` file  
+- [X] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [X] At least 5 commits showing your progress  
 
 ---
 
