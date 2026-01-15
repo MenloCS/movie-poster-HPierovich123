@@ -58,7 +58,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description:**  Wide Shot of the Casino, people in the foreground or in the Casino.
 
 ---
 
