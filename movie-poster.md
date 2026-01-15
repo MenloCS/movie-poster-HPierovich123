@@ -53,9 +53,9 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure) Wide Shot of the Casino, people in the foreground or in the Casino.
-- [ ] Object/symbol centered  
+- [ ] Wide shot (landscape/setting)  Wide shot of the Casino
+- [ ] Medium shot (full figure) 
+- [ ] Object/symbol centered 
 - [ ] Character collage  
 
 - **Focal point description:**  Wide Shot of the Casino, people in the foreground or in the Casino.
@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  I need to make a movie poster for the movie Oceans 11 (2001). Its a wide shot of Benedict's Casino, with people in the forgroud.I do not want a super realistic image, I want it to be very minimalist in color scheme, the main colors being black, white, and red.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It was the right idea, with the minimalism and outlines of people, and it was centered on the Casino.
+- **What didn't work:**  It has too much black, and I don't want so much negative space next to the casino.
+- **What I'll change for next attempt:**  I will specify I don't want as much black, add some blue, and I want the casino AS the background. Plus, I want the people running out of the building.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  I don't want as much black and I want the casino AS the background.  Plus, instead of saying Benedict's' casino, it could have the name of the movie, but still with people in the foreground running out of the building. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It has the people running out of the building, as I requested
+- **What didn't work:**  It went realistic, which, as I mentioned in the first prompt, I didn't want.
+- **What I'll change for next attempt:** I will specify I want the same minimalism we saw in the first one.
 
 ---
 
